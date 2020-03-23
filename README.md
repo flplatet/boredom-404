@@ -1,5 +1,7 @@
 # The boredom annihilation list
 
+_Last update : 23/03/2020, 9:35 EST_
+
 ## Usage
 
 Everyone is free to contribute! Feel free to send requests or even better : PRs if you're on GitHub!  
@@ -16,7 +18,7 @@ But there's hope! We have the glorious Internet and its contributors.
 Let's see all the non-ordinary things we can do with just a laptop and an Internet connexion...
 
 * [Together](#together)
-    * [Communication](#communication)
+    * [Communication tools](#communication-tools)
         * [text](#text)
         * [voice](#voice)
         * [video](#video)
@@ -41,12 +43,14 @@ Let's see all the non-ordinary things we can do with just a laptop and an Intern
         * [Talks/Podcast](#talkspodcasts)
         * [Cooking](#cooking)
         * [Programming](#programming)
+            * [Raspberry](#raspberry)
+            * [useful links](#useful-links)
     * [Exercise](#exercise)
     * [(Extended) Reading](#extended-reading)
 
 ## Together
 
-### Communication
+### Communication tools
 
 Write. Talk. See each other. We need it !
 
@@ -56,18 +60,31 @@ Write. Talk. See each other. We need it !
 
 #### Voice
 
-* Discord
+* [Discord](https://discordapp.com/)
+
+Initially created for gamers to communicate while gaming, it's a very cool tool to use.
+
+Each person can create its own server (meaning "virtual space") where it can invite friends, or join other's server.
 
 #### Video
 
+_The commons_
 * Messenger
 * WhatsApp
 * Snapchat
 * Viber
 * WeChat
 * Skype
-* Jitsi
-* HouseParty (+ games!)
+
+_The meetings_
+* [Jitsi](https://jitsi.org)
+* [Zoom](https://zoom.us)
+
+_The new one_
+* [HouseParty](https://www.houseparty.com/)
+
+Fun to use because it comes with games such as Draw.  
+One inconvenience : the Chrome extension is bursting your CPU...
 
 ### Watch together
 
@@ -95,12 +112,25 @@ It's worth mentioning [Steam](https://store.steampowered.com) also offers free t
 ### Social networks
 
 #### Forums
-* Reddit
+* [Reddit](https://www.reddit.com/)
+
+One of the biggest (if not the biggest) network of communities. News, tips, debates, fun, viral or crap... 
+Good or bad, it's fascinating and it's the face of Internet.
+
+You won't have time to explore all subreddits in a single life. Go and subscribe!
 
 #### Fun
 * [9gag](https://9gag.com/)
+
+Meme, GIFs and videos. 100% sure it breaks rule #1 but it does with fun.
+
 * [Imgur](https://imgur.com)
+
+9gag brother.
+
 * [Tumblr](https://www.tumblr.com)
+
+The eldest of the family, was popular first.
 
 
 ### Movies
@@ -211,11 +241,33 @@ Now might be the time to improve your skills...
 
 Very complete website for cooking with an active community, giving tips and posting recipes.
 
+* [Reddit /r/recipes](https://www.reddit.com/r/recipes/)
+
+Reddit community for recipes. Easy ideas to do at home.
+
 #### Programming
 
 If you're into programming, you might already know a lot about the web and its treasures. 
 You might also have plenty of occupations right now...   
 Nevertheless, here's a short list of very interesting stuff.
+
+##### Raspberry
+
+Projects examples are not rare, using this tiny computer. ~35$ and you're good to go for an adventure!
+
+* [Retropie](https://retropie.org.uk/)
+
+RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine.
+
+You want to bring nostalgia and be granted the occasion to play some Atari, Dreadcast or even N64 games once again? Here is the solution
+
+* [Pi-hole](https://pi-hole.net/)
+
+A black hole for Internet advertisements, literally.
+
+Expect some frustration though with Facebook or Messenger after that...
+
+##### Useful links
 * [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [https://github.com/dwmkerr/hacker-laws/](https://github.com/dwmkerr/hacker-laws/)
