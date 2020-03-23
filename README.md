@@ -140,7 +140,7 @@ The eldest of the family, was popular first.
 
 #### Tasting
 
-* Untappd (beers)
+* [Untappd](https://untappd.com/) (beers)
 
 _(Android and iOS)_
 
@@ -170,6 +170,9 @@ And when the time will come, explore nearby bars.
 
 A calendar for your TV shows.
 
+![](images/betaseries.png)
+
+
 #### Events
 
 Event organizers had to change plans. And they did it successfully!
@@ -180,8 +183,6 @@ Festival International du Film sur l'Art made several films available online, ac
 
 For over three decades, it has presented an annual event in March, which allows discovery of the latest documentaries on art, in addition to a selection of virtual reality and interactive works.
 
-
-![](images/betaseries.png)
 
 ### Music
 
