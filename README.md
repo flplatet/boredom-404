@@ -43,6 +43,7 @@ Let's see all the non-ordinary things we can do with just a laptop and an Intern
         * [Concerts](#concerts)
     * [Lean](#learn)
         * [Talks/Podcast](#talkspodcasts)
+        * [Youtube channels](#youtube-channels)
         * [Cooking](#cooking)
         * [Programming](#programming)
             * [Raspberry](#raspberry)
