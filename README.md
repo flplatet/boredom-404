@@ -226,6 +226,8 @@ Its interface is designed to be minimalistic and simple, so as not to put off be
 
 The sharing feature gives you the ability to instantly put your work online.
 
+![](images/zupiter.png)
+
 
 ### Learn
 
