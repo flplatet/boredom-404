@@ -24,7 +24,7 @@ Let's see all the non-ordinary things we can do with just a laptop and an Intern
     * [Games](#games)
         * [console](#consoles-could-be-paying)
         * [boardgames](#boardgames)
-* [On you own](#on-you-own)
+* [On your own](#on-your-own)
     * [Social networks](#social-networks)
         * [forums](#forums)
         * [fun](#fun)
