@@ -1,6 +1,6 @@
 # The boredom annihilation list
 
-_Last update : 23/03/2020, 9:45 EST_
+_Last update : 23/03/2020, 14:07 EST_
 
 ## Usage
 
@@ -30,6 +30,7 @@ Let's see all the non-ordinary things we can do with just a laptop and an Intern
     * [Social networks](#social-networks)
         * [forums](#forums)
         * [fun](#fun)
+        * [tasting](#tasting)
     * [Movies](#movies)
         * [platforms](#movie-platforms-paying)
         * [sources of inspiration](#sources-of-inspiration)
@@ -39,6 +40,7 @@ Let's see all the non-ordinary things we can do with just a laptop and an Intern
         * [creation](#create-some-music)
             * [software](#software)
             * [online](#online)
+        * [Concerts](#concerts)
     * [Lean](#learn)
         * [Talks/Podcast](#talkspodcasts)
         * [Cooking](#cooking)
@@ -46,7 +48,8 @@ Let's see all the non-ordinary things we can do with just a laptop and an Intern
             * [Raspberry](#raspberry)
             * [useful links](#useful-links)
     * [Exercise](#exercise)
-    * [(Extended) Reading](#extended-reading)
+    * [Online books](#online-books)
+    * [(Extended) Real books](#extended-real-books)
 
 ## Together
 
@@ -67,6 +70,8 @@ Initially created for gamers to communicate while gaming, it's a very cool tool 
 Each person can create its own server (meaning "virtual space") where it can invite friends, or join other's server.
 
 #### Video
+
+What not having a beer or a glass of wine in the meantime? Just like a 5@7 (CA) / apéro (FR)
 
 _The commons_
 * Messenger
@@ -132,6 +137,16 @@ Meme, GIFs and videos. 100% sure it breaks rule #1 but it does with fun.
 
 The eldest of the family, was popular first.
 
+#### Tasting
+
+* Untappd (beers)
+
+_(Android and iOS)_
+
+If you have a good beer selection at your groceries store, share your favorite ones with your friends. 
+And when the time will come, explore nearby bars. 
+
+![](images/untappd.png)
 
 ### Movies
 
@@ -153,6 +168,17 @@ The eldest of the family, was popular first.
 * [Betaseries](https://www.betaseries.com/)
 
 A calendar for your TV shows.
+
+#### Events
+
+Event organizers had to change plans. And they did it successfully!
+
+* [FIFA](www.artfifa.com) (Canada) 17/03 to 29/03
+
+Festival International du Film sur l'Art made several films available online, across Canada for 30$.
+
+For over three decades, it has presented an annual event in March, which allows discovery of the latest documentaries on art, in addition to a selection of virtual reality and interactive works.
+
 
 ![](images/betaseries.png)
 
@@ -229,6 +255,29 @@ The sharing feature gives you the ability to instantly put your work online.
 ![](images/zupiter.png)
 
 
+#### Concerts
+
+**Youtube channels**
+
+* [ARTE Concert](https://www.youtube.com/channel/UC-smeLB9AnOTeypr1YyjJ3A)
+
+Rock, pop, electronic, world, classical, opera, jazz, dance, cirque, theater...
+
+* [Boiler Rooms](https://www.youtube.com/user/brtvofficial)
+
+Featuring over 4,000 performances, by more than 5,000 artists, spanning 150 cities, enabling everyone regardless of where they live to enjoy the freedom it stands for.
+
+**Spontaneous concerts online**
+
+* France
+
+    * [Radio Nova]() - Teuf d'appart 
+
+Live from a DJ's place. Friday, 20h to to midnight!
+
+* Montréal
+    * [insideout](https://www.facebook.com/insideoutlivestreaming/)
+
 ### Learn
 
 #### Talks/Podcasts
@@ -242,6 +291,23 @@ Radio podcasts could have been great but they might be only talking about one th
     * [EuroPod](https://www.bullemedia.eu/europod)
     
 EuroPod is a network of European podcast shows which brings together journalistic, cultural and institutional views on political and societal trends in Europe and beyond.
+
+
+#### Youtube channels
+
+* History
+
+    * [Nota Bene](https://www.youtube.com/user/notabenemovies) (FR)
+
+With short format videos (8 to 20 min), Nota Bene is a very accessible history channel. 
+The covered topics go from the Antiquity to nowadays, always with a dose of humor.
+    
+* Cinema
+
+    * [Le Fossoyeur de films](https://www.youtube.com/user/deadwattsofficiel/) (FR)
+    
+Synthetic analyze of the film genre. Critics, anecdotes, technics... Always a serious work with a nice staging.
+
 
 ### Cooking
 
@@ -288,7 +354,13 @@ Yep, it's possible. Many websites describe how to exercise safely at home using 
 
 (Links needed)
 
-### (Extended) Reading
+### Online books
+
+* [MET publications](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online?searchtype=F)
+
+Five decades of Met publications on art history, available to read, download, and/or search for free.
+
+### (Extended) Real books
 
 The legend tells about an antique technology capable of plugging ourselves in a deep virtual reality
 by only seeing obscure shapes on paper, so powerful it could alter our dreams and even our conscience... 
