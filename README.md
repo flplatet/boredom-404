@@ -41,7 +41,7 @@ Let's see all the non-ordinary things we can do with just a laptop and an Intern
             * [software](#software)
             * [online](#online)
         * [Concerts](#concerts)
-    * [Lean](#learn)
+    * [Learn](#learn)
         * [Talks/Podcast](#talkspodcasts)
         * [Youtube channels](#youtube-channels)
         * [Cooking](#cooking)
