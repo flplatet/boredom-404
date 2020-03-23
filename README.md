@@ -1,6 +1,6 @@
 # The boredom annihilation list
 
-_Last update : 23/03/2020, 9:35 EST_
+_Last update : 23/03/2020, 9:37 EST_
 
 ## Usage
 
@@ -265,7 +265,7 @@ You want to bring nostalgia and be granted the occasion to play some Atari, Drea
 
 A black hole for Internet advertisements, literally.
 
-Expect some frustration though with Facebook or Messenger after that...
+Expect some frustration with Facebook or Messenger when using it...
 
 ##### Useful links
 * [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
