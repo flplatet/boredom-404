@@ -1,6 +1,6 @@
 # The boredom annihilation list
 
-_Last update : 23/03/2020, 9:37 EST_
+_Last update : 23/03/2020, 9:45 EST_
 
 ## Usage
 
@@ -183,6 +183,8 @@ An other genealogy map, but only for electronic music.
 
 Describes with more humour how humans end up creating these genres, while playing curated tracks. 
 
+![](images/ishkur.png)
+
 #### Create some music
 
 ##### Software
@@ -190,6 +192,8 @@ Describes with more humour how humans end up creating these genres, while playin
 * [FL Studio](https://www.image-line.com/flstudio/) (free demo)
 
 FL Studio is a digital audio workstation featuring a graphical user interface based on a pattern-based music sequencer.
+
+![](images/FLStudio.jpg)
 
 * [Mini Moog (iOS)](https://apps.apple.com/us/app/minimoog-model-d/id1339418001)
 
@@ -199,6 +203,8 @@ The Minimoog Model D App is a mobile transmutation of the world’s first portab
 Optimized for use on all 64-bit iOS devices, anyone can jump in and play with over 160 included presets or lay fingers to the controls 
 and begin exploring vast magical realms of creative potential.
 
+![](images/moog.png)
+
 * [Korg (Android)](https://play.google.com/store/apps/details?id=jp.co.korg.kaossilator.android)
 
 Same than Moog, Korg temporarily gives this app for free.
@@ -206,6 +212,8 @@ Same than Moog, Korg temporarily gives this app for free.
 "KORG Kaossilator for Android" is a synthesizer app that lets anyone enjoy full-fledged instrumental performance simply by freely moving their finger across the touch panel. 
 From electronic sounds to acoustic instruments and drums, you can play a wide range of sounds with a single finger. Also provided is a sequencer that's indispensable for creating songs, 
 so you can create tracks by recording and layering your performances. This easy yet full-fledged instrumental experience is now available on your Android smartphone.
+
+![](images/korg.png)
 
 ##### Online
 
