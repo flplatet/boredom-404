@@ -1,6 +1,6 @@
 # Boredom 404 - Not Found
 
-_Last update : 24/03/2020, 23:10 EST_
+_Last update : 26/03/2020, 22:25 EST_
 
 ## Quick word
 Confinement is hard. For everyone. We're separated, we have to adapt, 
